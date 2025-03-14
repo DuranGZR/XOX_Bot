@@ -88,12 +88,3 @@ Eğer projeye katkıda bulunmak isterseniz:
 
 Geri bildirimleriniz ve önerileriniz için **issue açabilirsiniz**. 🌟
 
----
-
-## 📄 Lisans
-
-Bu proje, **MIT Lisansı** ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
-
----
-
-**Not:** Bu proje, yapay zekâ ve takviye öğrenmesi konularında temel bilgi edinmek isteyenler için harika bir uygulamalı örnek teşkil etmektedir. 🚀
